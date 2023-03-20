@@ -112,8 +112,8 @@ body {
 }
 .btn-primary,
 .btn-primary:active {
-  background-color: #6592e6 !important;
-  border-color: #6592e6 !important;
+  background-color: #dc653a !important;
+  border-color: #dc653a !important;
   color: #ffffff !important;
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2);
 }
@@ -122,7 +122,7 @@ body {
 .btn-primary.focus,
 .btn-primary.active {
   color: #ffffff !important;
-  background-color: #2260d2 !important;
+  background-color: #dc4a16 !important;
   border-color: #2260d2 !important;
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.2);
 }
@@ -559,7 +559,7 @@ a[class*="text-"]:not(.nav-link):not(.dropdown-item):not([role]):not(.navbar-cap
 }
 a,
 a:hover {
-  color: #6592e6;
+  color: #dc653a;
 }
 .mbr-plan-header.bg-primary .mbr-plan-subtitle,
 .mbr-plan-header.bg-primary .mbr-plan-price-desc {
@@ -688,7 +688,7 @@ a {
 @media only screen and (max-width: 600px)
  {
 
-  .cid-typ0SP4EEy{ background-image: url("../../../assets/images/Vertical.png"); background-size: contain; background-color: #210002; }
+  .cid-typ0SP4EEy{ background-image: url("../../../assets/images/vertical.png"); background-size: contain; background-color: #210002; }
 }
 .cid-typ0SP4EEy .mbr-fallback-image.disabled {
   display: none;
